@@ -1,0 +1,12 @@
+site_name: Sistemas Operativos en Red
+nav:
+    - SOR: index.md
+    - UD12. Perfíles móviles y LDAP:
+      - Perfiles móviles con NFS y LDAP: ud12.md
+    - About: about.md
+theme: mkdocs
+markdown_extensions:
+  - admonition
+markdown_extensions:
+  - admonition
+  - attr_list
